@@ -26,11 +26,11 @@ Users should be able to:
 
 ## mobile view
 
-![](/images/mobile version.png)
+![Mobile](/images/mobile version.png)
 
 ## desktop view
 
-![](/images/desktop version.png)
+![Desktop](/images/desktop version.png)
 
 ### Links
 
