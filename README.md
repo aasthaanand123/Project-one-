@@ -26,7 +26,7 @@ Users should be able to:
 
 ## mobile view
 
-(/images/mobile version.png)
+(./images/mobile version.png)
 
 ## desktop view
 
