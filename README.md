@@ -30,7 +30,7 @@ Users should be able to:
 
 ## desktop view
 
-![Desktop version](./images/desktop version.png)
+![Desktop version](./images/desktop%20version.png)
 
 ### Links
 
